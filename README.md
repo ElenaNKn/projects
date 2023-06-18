@@ -2,4 +2,4 @@
 
 | Наименование проекта          | Технологии    |
 | :---                          | :---          |
-| Анализ песонала и окладов     | MS Excel      |
+| [Анализ песонала и окладов](https://github.com/ElenaNKn/portfolio_rus/tree/master/project_excel)  | MS Excel      |
