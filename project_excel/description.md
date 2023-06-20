@@ -41,4 +41,4 @@
 8. Средний оклад мужчин и женщин в компании (через инструмент "`сводная таблица / pivot table`")
 9. Количество именинников в каждом месяце (через инструмент "`сводная таблица / pivot table`")
 
-Скачать проект можно по ссылке: ["Анализ персонала и окладов"](https://github.com/ElenaNKn/portfolio_rus/blob/master/project_excel/staff_and_salaries.xlsx)
+Скачать проект можно по ссылке: ["Анализ персонала и окладов"](https://github.com/ElenaNKn/portfolio_rus/raw/master/project_excel/staff_and_salaries.xlsx)
