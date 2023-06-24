@@ -26,15 +26,15 @@
 
 1. интерактивный график конверсии пользователей по неделям:
 
-<img src="images/funell_week.png" width="800" height="600" alt="download_button"/>
+<img src="images/funell_week.png" width="800" height="500" alt="download_button"/>
 
 2. интерактивный график конверсии пользователей по месяцам:
 
-<img src="images/funell_month.png" width="800" height="600" alt="download_button"/>
+<img src="images/funell_month.png" width="800" height="500" alt="download_button"/>
 
 3. столбчатая диаграмма (bar plot) конверсии пользователей по месяцам (февраль исключен из рассмотрения исходя из логики проекта: база данных содержит информацию о клиентах только за 2 дня февраля. Поэтому данные за этот месяц создают выброс и могут быть исключены из рассмотрения)
 
-<img src="images/funell_month_barplot.png" width="800" height="600" alt="download_button"/>
+<img src="images/funell_month_barplot.png" width="800" height="500" alt="download_button"/>
 
 # Примечание
 
@@ -42,4 +42,4 @@
 
 Для того, чтобы скачать ноутбук с выполненным проектом и построенными графиками необходимо пройти по ссылке ["Визуализация воронок"](https://github.com/ElenaNKn/portfolio_rus/blob/master/project_sql_plotly/report_sql_plotly.ipynb) и нажать кнопку "Download raw file":
 
-<img src="images/download.png" width="700" height="300" alt="download_button"/>
+<img src="images/download.png" width="700" height="200" alt="download_button"/>
