@@ -6,13 +6,13 @@
 
 Для оценки WoE применено соотношение:
 
-$$ WoE(X) = ln(\frac{P(𝑌 = 1 | X)}{P(𝑌 = 0 | X)}) - ln(\frac{P(𝑌 = 1)}{P(𝑌 = 0)}) $$
+$$ WoE(X) = ln\frac{P(𝑌 = 1 | X)}{P(𝑌 = 0 | X)} - ln\frac{P(𝑌 = 1)}{P(𝑌 = 0)} $$
 
 Выполнение проекта осуществлялось на базе датасета следующего вида:
 
     X, y = make_classification(n_samples=7000, n_features=20, n_informative=5, n_redundant=2,
-                           n_repeated=0, scale=None, shift=None, shuffle=False, class_sep=0.5, 
-                           random_state=40)
+                                n_repeated=0, scale=None, shift=None, shuffle=False, class_sep=0.5, 
+                                random_state=40)
 
 # Этапы выполнения проекта
 
