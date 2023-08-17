@@ -6,7 +6,8 @@
 | :---                          | :---          |
 | [Анализ песонала и окладов](https://github.com/ElenaNKn/portfolio_rus/blob/master/project_excel/description.md)  | MS Excel (pivot tables, VLOOKUP, MATCH, IF, filtering)      |
 | [Визуализация воронок конверсии](https://github.com/ElenaNKn/portfolio_rus/tree/master/project_sql_plotly/description.md)  | SQL, Python (pandas, plotly)    |
-| [A/B тест для непрерывной метрики](https://github.com/ElenaNKn/portfolio_rus/tree/master/project_ab_test_continuous_metrics/description.md)  | Python (pandas, scipy), A/B тестирование    |
+| [A/B тест для непрерывной метрики](https://github.com/ElenaNKn/portfolio_rus/tree/master/project_ab_test_continuous_metrics/description.md)  | Python (pandas, scipy), A/B тестирование (двухвыборочный t-критерий)    |
+| [A/B тест для бинарной величины](https://github.com/ElenaNKn/portfolio_rus/tree/master/project_ab_test_bernoulli_variable/description.md)  | Python (pandas, scipy), A/B тестирование (двухпропорционный Z-тест)    |
 
 ## Проекты по машинному обучению
 
