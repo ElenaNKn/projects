@@ -18,12 +18,6 @@
 | [Многоклассовая классификация при дисбалансе классов](https://github.com/ElenaNKn/portfolio_rus/blob/master/project_multiclass_classification/description.md)  | Python (pandas, scikit-learn, matplotlib), многоклассовая классификация (one-vs-rest и one-vs-one подходы), модели классификации (логистическая регрессия, метод опорных векторов, KNN, дерево решений), оценка качества модели по кросс-валидации, подбор гиперпараметров по кросс-валидации, построение матрицы ошибок (confusion matrix)       |
 | [CatBoost для решения задачи регрессии. Подбор гиперпараметров с Optuna](https://github.com/ElenaNKn/portfolio_rus/blob/master/project_hyperparameters_tuning/description.md)  | Python (pandas, scikit-learn, matplotlib), бустинговые модели (CatBoost), корреляция текстовых признаков (V-мера Крамера), feature engineering, оценка моделей по кросс-валидации, оценка значимости признаков - feature importance (библиотека shap), байесовский поиск гиперпараметров с Optuna     |
 
-## Проекты по компьютерному зрению
-
-| Наименование проекта          | Технологии, компетенции    |
-| :---                          | :---          |
-
-
 ## Контакты
 
 LinkedIn: https://www.linkedin.com/in/alena-kniazeva-a907bb197/ 
